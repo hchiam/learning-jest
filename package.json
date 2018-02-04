@@ -1,0 +1,11 @@
+{
+  "scripts": {
+  	"test": "jest"
+  },
+  "devDependencies": {
+    "jest-cli": "^22.1.4"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
