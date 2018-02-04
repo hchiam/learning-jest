@@ -4,13 +4,9 @@ Learning Jest for JS TDD.
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Get Started:
-To get started, create this folder within Terminal to hold jest-cli and its dependencies:
+To get started, create this folder within Terminal to install jest-cli:
 ```
 mkdir node_modules
-```
-
-Then install jest-cli:
-```
 npm install --save-dev jest-cli
 ```
 
