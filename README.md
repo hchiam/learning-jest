@@ -20,9 +20,11 @@ Then to run the test, do this in Terminal:
 npm run test
 ```
 
-Or just `npm test` or `npm t`.
+(Or just `npm test` or `npm t`.)
 
-You should see something like this:
+This tests `add.js` using `add.test.js`.
+
+And you should see something like this:
 
 ```
 > @ test /.../learning-jest
