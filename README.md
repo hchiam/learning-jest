@@ -15,8 +15,8 @@ Then to run the test, do this in Terminal:
 ```
 npm run test
 ```
-
 (Or just `npm test` or `npm t`.)
+(Also note that this uses `npm`, unlike Tape, which uses `node`.)
 
 This tests `add.js` using `add.test.js`.
 
