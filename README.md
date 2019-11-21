@@ -55,4 +55,8 @@ This is set inside package.json to suppress the simulation of a browser with the
 
 ## Resources:
 
-https://facebook.github.io/jest/
+https://facebook.github.io/jest
+
+## You Might Also Like:
+
+https://github.com/hchiam/eslint-and-jest
