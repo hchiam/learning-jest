@@ -10,6 +10,11 @@ mkdir node_modules
 npm install --save-dev jest-cli
 ```
 
+You can check that jest-cli was properly installed:
+```
+jest --version
+```
+
 ## Run Test:
 Then to run the test, do this in Terminal:
 ```
