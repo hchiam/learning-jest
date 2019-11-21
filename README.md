@@ -23,6 +23,11 @@ npm run test
 (Or just `npm test` or `npm t`.)
 (Also note that this uses `npm`, unlike Tape, which uses `node`.)
 
+Or simply:
+```
+jest
+```
+
 This tests `add.js` using `add.test.js`.
 
 And you should see something like this:
