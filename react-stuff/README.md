@@ -23,3 +23,12 @@ But use files as shown here: <https://github.com/facebook/jest/tree/master/examp
 # cd my-app
 jest # or: yarn test
 ```
+
+## To update snapshots
+
+```bash
+# cd my-app
+jest --updateSnapshot
+```
+
+You can limit with the `--testNamePattern` option.
