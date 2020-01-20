@@ -60,3 +60,7 @@ https://facebook.github.io/jest
 ## You Might Also Like:
 
 https://github.com/hchiam/eslint-and-jest
+
+## More advanced React stuff
+
+See folder [react-stuff](https://github.com/hchiam/learning-jest/tree/master/react-stuff)
