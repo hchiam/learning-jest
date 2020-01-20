@@ -1,8 +1,8 @@
 # More advanced stuff for [React](https://github.com/hchiam/learning-reactjs)
 
-<https://jestjs.io/docs/en/tutorial-react>
+Testing React Apps: <https://jestjs.io/docs/en/tutorial-react>
 
-<https://jestjs.io/docs/en/snapshot-testing>
+Snapshot Testing: <https://jestjs.io/docs/en/snapshot-testing>
 
 ## [create-react-app](https://github.com/facebook/create-react-app) instructions I used
 
